@@ -1,2 +1,2 @@
 # project3
-college.s6.miniproject
+violenc_detection_cnn.s6.project
